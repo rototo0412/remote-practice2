@@ -1,2 +1,3 @@
-pull과 feach를 위한 파일
+pull과 fecth를 위한 파일
 누가 와서 내용을 바꾼다면?
+fecth
